@@ -24,7 +24,7 @@
     
     var time = setTimeout(function(){startTime() }, 500);
     
-}
+};
 
 
 function checkTime(i) {
@@ -33,6 +33,6 @@ function checkTime(i) {
         
     }
     return i;
-}
+};
     
     
